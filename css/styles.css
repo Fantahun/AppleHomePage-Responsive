@@ -43,6 +43,10 @@ img {
 
 /* my content goes here */
 
+.main-highlight-wrapper{
+  background-color: #FAFAFA;
+}
+
 .info-links a {
   color: #06c;
 }
